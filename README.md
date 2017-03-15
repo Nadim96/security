@@ -18,6 +18,7 @@ Plaats de volledige map 'security' in jouw htdocs folder.
 Stap ...:
 
 x.1 Open het bestand security/connection.php. zie je geen error? dan werkt het, klik op de link om door te gaan!
+
 x.2 Heb je niet op de link geklikt? ga dan automatisch naar localhost/security/create_account.php
 
 Stap ...:
