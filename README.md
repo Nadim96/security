@@ -4,4 +4,4 @@
 Stap 1:
 
 Download alle bestanden
-https://puu.sh/uK12t.png
+![Alt text](https://puu.sh/uK12t.png "Optional title")
