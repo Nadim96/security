@@ -21,13 +21,13 @@ Stap 4:
 
 4.1 Open het bestand security/connection.php via jou localhost. zie je geen error? dan werkt het!
 
-4.2 Werkt het niet? pas dan de de 'naam' en/of 'wachtwoord' op de plek in de afbeelding hieronder; standaard is dit 'root' en '' (leeg)
+4.2 Werkt het niet? pas dan de de 'naam' en/of 'wachtwoord' op de plek in de afbeelding hieronder; standaard is dit 'root' en ''
 
 ![Alt text](https://puu.sh/uM7CF.png)
 
 Stap 5:
 
-Navigeer naar localhost/security/opdracht1.php of 127.0.0.1/security/create_account.php en volg de stappen die staan beschreven.
+Navigeer naar http://localhost/security/opdracht1.php of 127.0.0.1/security/create_account.php en volg de stappen die staan beschreven.
 
 Kom je ergens niet uit? wij lopen rond, spreek ons aan!
 
