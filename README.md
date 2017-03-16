@@ -3,7 +3,7 @@
 
 Stap 1:
 
-Download de bestanden.
+Download de bestanden (pas geen bestandsnamen aan).
 
 ![Alt text](https://puu.sh/uM79R.png)
 
