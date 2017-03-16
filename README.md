@@ -17,15 +17,26 @@ Sla de overige bestanden op in je htdocs in het mapje 'security'.
 
 ![Alt text](https://puu.sh/uM6Oe.png)
 
-Stap ...:
+Stap 4:
 
-x.1 Open het bestand security/connection.php. zie je geen error? dan werkt het!
+4.1 Open het bestand security/connection.php via jou localhost. zie je geen error? dan werkt het!
 
-x.2 Heb je niet op de link geklikt? ga dan automatisch naar localhost/security/create_account.php
+Stap 5:
 
-Stap ...:
+Navigeer naar localhost/security/opdracht1.php of 127.0.0.1/security/create_account.php en volg de stappen die staan beschreven.
 
-Navigeer naar localhost/security/create_account.php of 127.0.0.1/security/create_account.php en volg de stappen die staan beschreven.
+Kom je ergens niet uit? wij lopen rond, spreek ons aan!
 
-Stap ...:
+
+
+
+Code 1:
+
+invoeren:
+
+![Alt text](https://puu.sh/uLBfd.jpg)
+
+Resultaat:
+
+![Alt text](https://puu.sh/uLBgl.jpg)
 
