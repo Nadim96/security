@@ -21,7 +21,7 @@ Stap 4:
 
 4.1 Open het bestand security/connection.php via jou localhost. zie je geen error? dan werkt het!
 
-4.2 Werkt het niet? pas dan de de 'naam' en/of 'wachtwoord' op de plek in de afbeelding hieronder; standaar is dit 'root' en ''
+4.2 Werkt het niet? pas dan de de 'naam' en/of 'wachtwoord' op de plek in de afbeelding hieronder; standaard is dit 'root' en '' (leeg)
 
 ![Alt text](https://puu.sh/uM7CF.png)
 
