@@ -9,7 +9,7 @@ Download de bestanden (pas geen bestandsnamen aan).
 
 Stap 2:
 
-Importeer het bestand 'SQLSecurity.sql' in het mapje 'database' via PhpMyAdmin, MySQL Workbench of een andere tool.
+Importeer het bestand 'SQLSecurity.sql' uit het mapje 'database' via PhpMyAdmin, MySQL Workbench of een andere tool.
 
 Stap 3:
 
