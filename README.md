@@ -13,7 +13,7 @@ Importeer het bestand 'SQLSecurity.sql' uit het mapje 'database' via PhpMyAdmin,
 
 Stap 3:
 
-Sla de overige bestanden op in je htdocs in het mapje 'security'. 
+Sla het mapje 'security' op in je htdocs (maak geen aanpassingen).
 
 ![Alt text](https://puu.sh/uM6Oe.png)
 
