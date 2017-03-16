@@ -3,22 +3,19 @@
 
 Stap 1:
 
-Download de bestanden
+Download de bestanden.
 
-1.1 Importeer het bestand 'SQLSecurity.sql' in het mapje 'database' in phpmyadmin, mysqlworkbench of een ander tool.
+![Alt text](https://puu.sh/uM79R.png)
 
-1.2 Sla de overige bestanden op in je htdocs in het mapje 'security'. 
+Stap 2:
 
-Voorbeeld: ![Alt text](https://puu.sh/uM6Oe.png)
+Importeer het bestand 'SQLSecurity.sql' in het mapje 'database' in PhpMyAdmin, MySQL Workbench of een andere tool.
 
+Stap 3:
 
-Stap ...:
+Sla de overige bestanden op in je htdocs in het mapje 'security'. 
 
-Importeer de SQL-Script 'SQLSecurity.sql' uit de map 'Database' in PhpMyAdmin, MySQL Workbench of een andere tool.
-
-Stap ...:
-
-Plaats de volledige map 'security' in jouw htdocs folder.
+![Alt text](https://puu.sh/uM6Oe.png)
 
 Stap ...:
 
