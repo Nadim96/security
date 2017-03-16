@@ -3,8 +3,13 @@
 
 Stap 1:
 
-Download alle bestanden
-![Alt text](https://puu.sh/uK12t.png "Download")
+Download de bestanden
+
+1.1 Importeer het bestand 'SQLSecurity.sql' in het mapje 'database' in phpmyadmin, mysqlworkbench of een ander tool.
+
+1.2 Sla de overige bestanden op in je htdocs in het mapje 'security'. 
+
+Voorbeeld: ![Alt text](https://puu.sh/uM6Oe.png)
 
 
 Stap ...:
