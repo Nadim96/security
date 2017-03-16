@@ -19,7 +19,7 @@ Sla de overige bestanden op in je htdocs in het mapje 'security'.
 
 Stap 4:
 
-4.1 Open het bestand security/connection.php via jou localhost. zie je geen error? dan werkt het!
+4.1 Open het bestand http://localhost/security/connection.php.. zie je geen error? dan werkt het!
 
 4.2 Werkt het niet? pas dan de de 'naam' en/of 'wachtwoord' op de plek in de afbeelding hieronder; standaard is dit 'root' en ''
 
