@@ -27,7 +27,7 @@ Stap 4:
 
 Stap 5:
 
-Navigeer naar http://localhost/security/opdracht1.php of 127.0.0.1/security/create_account.php en volg de stappen die staan beschreven.
+Navigeer naar http://localhost/security/opdracht1.php of http://127.0.0.1/security/opdracht1.php  en volg de stappen die staan beschreven.
 
 Kom je ergens niet uit? wij lopen rond, spreek ons aan!
 
