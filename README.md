@@ -19,7 +19,7 @@ Sla de overige bestanden op in je htdocs in het mapje 'security'.
 
 Stap 4:
 
-4.1 Open het bestand security/connection.php via jou localhost. zie je geen error? dan werkt het!
+Open het bestand security/connection.php via jou localhost. zie je geen error? dan werkt het!
 
 Stap 5:
 
@@ -28,7 +28,7 @@ Navigeer naar localhost/security/opdracht1.php of 127.0.0.1/security/create_acco
 Kom je ergens niet uit? wij lopen rond, spreek ons aan!
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 Code 1:
 
