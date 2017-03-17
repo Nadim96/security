@@ -1,5 +1,28 @@
 # security
 
+LEES:
+
+Een hashfunctie is een functie in de informatica die invoer uit een breed domein van waarden
+
+omzet in een (meestal) kleiner bereik, meestal een deelverzameling van de gehele getallen.
+
+Wanneer je een wachwoord hashed dan zijn er 2 belangrijke onderwerpen.
+
+Eén is welke algorithm je gebruikt.
+
+De andere is de salt.
+
+Met combinatie van alle 3 onderwerpen wordt het brute-forcen erg lastig.
+
+Wat is a salt?
+
+Een cryptographic salt is data dat wordt toegepast gedurend de hashing proces.
+
+Het zorgt ervoor de output van de data wordt opgezocht in een lijst van berekende hashes en hun
+
+output veranderd dat bekend staat als een rainbow table.
+
+Een salt is een stukje data dat de hashed code moeilijk maakt om te cracken.
 
 Stap 1:
 
