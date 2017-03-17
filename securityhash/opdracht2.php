@@ -85,7 +85,7 @@ als dit overeenkomt is de plain-text ook bekend.<br><br>";
 
     document.getElementById('countdown').innerHTML = firstInput + remaining + lastInput;
     setTimeout(function(){ countdown(remaining - 1); }, 1000);
-})(90);
+})(60);
 </script>
 
 <h3><b> Opdracht 2 </b></h3>

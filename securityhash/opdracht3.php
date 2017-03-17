@@ -37,11 +37,12 @@ if (isset($salthash)) {
 
 
 
-		echo "<h3><b> Opdracht 3.2</b></h3> Doorloop de code in je htdocs map security en pas wat dingen aan, in opdracht 2 is bijvoorbeeld MD5 gebruikt, 
-		verander dit naar SHA. Pas minimaal 3 stukken code aan soortgelijk aan het voorbeeld.<br><br>";
+		echo "<h3><b> Opdracht 3.2</b></h3> Doorloop de code in je htdocs map securityhash en pas wat dingen aan.<br>1. in opdracht 2 is MD5 gebruikt als hash methode, 
+		verander dit naar SHA (uitwerking code 2 op github).<br>2. Verander de algoritme optie (cost) aan naar een andere waarde (niet hoger dan 16 - uitwerking code 3 op github)
+		<br>3. (optioneel) verander de countdown timer van 60 seconden naar een andere waarde (uitwerking code 4 op github<br><br>";
 
 		echo "<b>Belangrijk! in te leveren onderdelen (zip file):</b><br>
-		1. Exporteer jouw security database<br>2. Voeg je htdocs map 'security' toe aan deze zip-file.";
+		1. Exporteer jouw security database<br>2. Voeg je htdocs map 'securityhash' toe aan deze zip-file.";
 }else{
 	?>
 
