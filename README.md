@@ -15,7 +15,7 @@ Stap 3:
 
 Sla het mapje 'securityhash' op in je htdocs folder (maak geen aanpassingen).
 
-![Alt text](https://puu.sh/uM6Oe.png)
+![Alt text](https://puu.sh/uMTxY.png)
 
 Stap 4:
 
