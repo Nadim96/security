@@ -61,3 +61,15 @@ Resultaat:
 
 ![Alt text](https://puu.sh/uLBgl.jpg)
 
+Code 2:
+
+![Alt text](https://puu.sh/uN59b.png)
+
+Code 3:
+
+![Alt text](https://puu.sh/uN5aE.png)
+
+Code 4:
+
+![Alt text](https://puu.sh/uN5ci.png)
+
