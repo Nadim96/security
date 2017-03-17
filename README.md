@@ -13,13 +13,13 @@ Importeer het bestand 'SQLSecurity.sql' uit het mapje 'database' via PhpMyAdmin,
 
 Stap 3:
 
-Sla het mapje 'security' op in je htdocs folder (maak geen aanpassingen).
+Sla het mapje 'securityhash' op in je htdocs folder (maak geen aanpassingen).
 
 ![Alt text](https://puu.sh/uM6Oe.png)
 
 Stap 4:
 
-4.1 Open het bestand http://localhost/security/connection.php zie je geen error? dan werkt het!
+4.1 Open het bestand http://localhost/securityhash/connection.php zie je geen error? dan werkt het!
 
 4.2 Werkt het niet? pas dan de 'naam' en 'wachtwoord' aan op de plek in de afbeelding hieronder; standaard is dit 'root' en ''
 
@@ -27,7 +27,7 @@ Stap 4:
 
 Stap 5:
 
-Navigeer naar http://localhost/security/opdracht1.php of http://127.0.0.1/security/opdracht1.php  en volg de stappen die staan beschreven.
+Navigeer naar http://localhost/securityhash/opdracht1.php of http://127.0.0.1/securityhash/opdracht1.php  en volg de stappen die staan beschreven.
 
 Kom je ergens niet uit? wij lopen rond, spreek ons aan!
 
